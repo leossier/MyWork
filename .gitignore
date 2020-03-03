@@ -1,0 +1,4 @@
+test/*
+!test/test2/*
+test/test2/doubletest.txt
+!test/test3/*/*
